@@ -4,6 +4,11 @@
 ## 完成写真＆使用例
 ![完成写真](./fig/04.jpeg)
 
+## 図面
+図面は LibreCAD で作成しました．手抜きなので最低限しか記載されていません．
+なお，LibreCAD の使い方は [簡単な例 - LibreCAD](http://machineshop.web.fc2.com/LibreCAD/example1/index.html) を見ると 3~ 6 時間くらいで習得できます．
+また，LibreCAD のインストール方法は [0から学ぶ LIBRECAD : 2 導入方法](https://femoghalvfems.info/librecad-ja/002-2) が参考になります．
+
 ## 部品一覧
 - 材料一覧
   | 材料名 | 購入場所 | 単価 (概算) [円] | 数量 [個] | 合計 [円] | 備考欄 |
